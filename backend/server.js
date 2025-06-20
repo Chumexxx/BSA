@@ -32,3 +32,14 @@ app.get('/', (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server running on http://localhost:${PORT}`);
 });
+
+//Controller
+//Routes
+//Models
+//Repositories
+//Services
+//Middlewares
+//Utilities
+//Helpers
+//Configurations
+
